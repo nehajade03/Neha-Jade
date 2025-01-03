@@ -1,4 +1,4 @@
-# Neha-Jade
+
 <h1 align="center">Hi 👋, I'm Neha Jade</h1>
 <h3 align="center">Showcasing Data-Driven Insights and Analytical Excellence</h3>
 
